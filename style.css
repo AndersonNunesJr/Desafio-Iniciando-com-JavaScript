@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+div {
+ display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 25px;
+}
+p {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    justify-content: center;
+    line-height: 28px;
+}
+#numberAEx2{
+    margin-left: 5px;
+    width: 50px;
+}
+#numberBEx2{
+    margin-left: 5px;
+    width: 50px;
+}
+#numberAEx6{
+    margin-left: 5px;
+    width: 50px;
+}
+
+#numberBEx6{
+    margin-left: 5px;
+    width: 50px;
+}
+#numberAEx7{
+    margin-left: 5px;
+    width: 50px;
+}
+#numberBEx7{
+    margin-left: 5px;
+    width: 50px;
+}
+#numberAEx8{
+    margin-left: 5px;
+    width: 50px;
+}
+#numberBEx8{
+    margin-left: 5px;
+    width: 50px;
+}
+
+.ultima{
+    margin-bottom: 15px;
+}
